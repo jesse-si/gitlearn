@@ -2,3 +2,4 @@
 git is a free software
 new line
 stage
+git trance change
